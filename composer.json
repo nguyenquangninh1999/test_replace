@@ -1,5 +1,6 @@
 {
     "name": "ninh/test",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Ninh\\Test\\": "src/"
@@ -11,7 +12,9 @@
             "email": "nguyenquangninh456@gmail.com"
         }
     ],
-    "require": {},
     "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {
+        "php": "~7.4.3"
+    }
 }
