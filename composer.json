@@ -11,7 +11,9 @@
             "email": "nguyenquangninh456@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=8.1"
+    },
     "prefer-stable": true,
     "minimum-stability": "dev"
 }
