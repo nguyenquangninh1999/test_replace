@@ -1,0 +1,15 @@
+{
+    "name": "ninh/test",
+    "autoload": {
+        "psr-4": {
+            "Ninh\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyenquangninh1999",
+            "email": "nguyenquangninh456@gmail.com"
+        }
+    ],
+    "require": {}
+}
