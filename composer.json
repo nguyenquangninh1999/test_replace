@@ -11,5 +11,7 @@
             "email": "nguyenquangninh456@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
